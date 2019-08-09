@@ -1,17 +1,17 @@
 #!/bin/bash
 
-echo "###############################"
-echo "# Http response with multi    #"
-echo "# threadhing support via Curl #"
-echo "# by ak1t4                    #"
-echo "###############################"
+echo "##########################################"
+echo "# Http response with multi               #"
+echo "# threads support via Curl/parallels.    #"
+echo "# by ak1t4 https://twitter.com/ak1t4_zen #"
+echo "##########################################"
 
 echo "requires: parallel gnu"
 echo "installing.. (osx)"
 brew install parallel
 echo "Now just run:"
 echo "./curl.sh yours-urls.txt"
-echo "output is over urlstatus.txt"
+echo "output is over 'cat urlstatus.txt'"
 echo ""
 
 doit() {
