@@ -1,7 +1,7 @@
 # http_code
 Requires parallel gnu
 INSTALLATION osx
-brew install parallel
+### brew install parallel
 
 ###  DEMO from my vps
 ```
