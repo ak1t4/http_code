@@ -7,7 +7,9 @@ echo "# by ak1t4                    #"
 echo "###############################"
 
 echo "requires: parallel gnu"
-echo "just run:"
+echo "installing.. (osx)"
+brew install parallel
+echo "Now just run:"
 echo "./curl.sh yours-urls.txt"
 echo "output is over urlstatus.txt"
 echo ""
