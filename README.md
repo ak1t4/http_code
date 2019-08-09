@@ -1,10 +1,10 @@
 # http_code
-# Requires parallel gnu
+Requires parallel gnu
+INSTALLATION osx
+brew install parallel
 
-# INSTALLATION osx
-# brew install parallel
-
-# DEMO from my vps
+###  DEMO from my vps
+```
 [ec2-user@ip-172-31-45-23 http_code]$ time ./curl.sh url.txt
 ###############################
 # Http response with multi    #
@@ -21,6 +21,7 @@ Now just run:
 real	0m29.106s
 user	0m18.920s
 sys	0m7.236s
-# 564 urls parsed in 0m29.106secs.
+```
+### 564 urls parsed in 0m29.106secs.
 
     https://asciinema.org/a/mffMvi6pBF3z1dWjiNoq132Wj
