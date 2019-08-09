@@ -11,7 +11,7 @@ echo "installing.. (osx)"
 brew install parallel
 echo "Now just run:"
 echo "./curl.sh yours-urls.txt"
-echo "output is over 'cat urlstatus.txt'"
+echo "(output is over 'cat urlstatus.txt')"
 echo ""
 
 doit() {
