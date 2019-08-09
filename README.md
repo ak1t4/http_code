@@ -24,4 +24,4 @@ sys	0m7.236s
 ```
 ### 564 urls parsed in 0m29.106secs.
 
-    https://asciinema.org/a/mffMvi6pBF3z1dWjiNoq132Wj
+   [![asciicast](https://asciinema.org/a/mffMvi6pBF3z1dWjiNoq132Wj.svg)](https://asciinema.org/a/mffMvi6pBF3z1dWjiNoq132Wj)
