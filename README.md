@@ -5,12 +5,12 @@ INSTALLATION osx
 
 ###  DEMO from my vps
 ```
-[ec2-user@ip-172-31-45-23 http_code]$ time ./curl.sh url.txt
-###############################
-# Http response with multi    #
-# threadhing support via Curl #
-# by ak1t4                    #
-###############################
+[ec2-user@ip-172-31-45-xx http_code]$ time ./curl.sh url.txt
+##########################################
+# Http response with multi               #
+# threads support via Curl/parallels.    #
+# by ak1t4 https://twitter.com/ak1t4_zen #
+##########################################
 requires: parallel gnu
 Now just run:
 ./curl.sh yours-urls.txt
